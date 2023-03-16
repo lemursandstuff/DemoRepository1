@@ -30,7 +30,9 @@
     /* Slightly less aquatic, still deep as an ocean */
     --colorPaletteAquaAqua1000: #193c4d;    
     --colorPaletteAquaAqua900: #265d71;    
+    /* Aqua with an amazing text-on-white contrast (AAA) */
     --colorPaletteAquaAqua800: #316c82;    
+    /* Aqua with good-enough text-on-white contrast (AA) */
     --colorPaletteAquaAqua700: #3a8396;    
     --colorPaletteAquaAqua600: #4295ab;    
     --colorPaletteAquaAqua500: #54b5cb;    
@@ -170,4 +172,6 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
+    --colorPaletteTealTeal100: #d5f6ef;    
+    --colorPaletteYellowYellow600: #f6be41;    
 }
